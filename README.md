@@ -1,7 +1,6 @@
-## Hi there 👋
+## Привет 👋, я Никита Смирнов
 
 <!--
-**tiodio324/tiodio324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

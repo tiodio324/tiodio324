@@ -4,12 +4,13 @@
 * :muscle: Моё резюме: [HH.ru](https://hh.ru/resume/247d099aff0dd2410b0039ed1f7447565a6f47)
 * Все мои проекты доступны [здесь](https://github.com/tiodio324?tab=repositories)
 
-### :bulb: Я использую технологии: HTML5, CSS3, Sass/SCSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React.js, React-native.js, Redux, Firebase, Git: 
+### :bulb: Я использую технологии: HTML5, CSS3, Sass/SCSS, JavaScript, Bootstrap5, PHP, Laravel, MySQL, PostgreSQL, React.js, React-native.js, Redux, Firebase, Git: 
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap5" alt="Bootstrap5" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;

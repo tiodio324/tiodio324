@@ -4,7 +4,7 @@
 * :muscle: Моё резюме: [HH.ru](https://hh.ru/resume/247d099aff0dd2410b0039ed1f7447565a6f47)
 * Все мои проекты доступны [здесь](https://github.com/tiodio324?tab=repositories)
 
-### :bulb: Я использую технологии: HTML5, CSS3, Sass/SCSS, Tailwindcss, JavaScript (ES6), Bootstrap5, PHP, Laravel, MySQL, PostgreSQL, React.js, React-native.js, Redux, Firebase, Git: 
+### :bulb: Я использую технологии: HTML5, CSS3, Sass/SCSS, Tailwindcss, JavaScript (ES6), Bootstrap5, PHP, Laravel, MySQL, PostgreSQL, React.js, React-native.js, Redux, Firebase, Axios, Git: 
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -21,5 +21,6 @@
   	<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" title="React-navigation" alt="React-navigation " width="40" height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>

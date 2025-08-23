@@ -41,6 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
 <img src="https://reactnative.dev/img/header_logo.svg" title="React Native" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/mobxjs/mobx/main/docs/assets/mobx.png" title="MobX" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/pmndrs/jotai/main/img/jotai-mascot.png" title="Jotai" width="40" height="40"/>&nbsp;

@@ -52,5 +52,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://kassa.bifit.com/wiki/images/0/02/1c_bitrix_logo.svg.png" title="Bitrix Framework" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" width="40" height="40"/>&nbsp;
 
 ---

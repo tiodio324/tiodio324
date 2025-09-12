@@ -16,7 +16,7 @@
 - 🚀 Built a crypto trading bot that ranks **Top 15** for transaction speed performance
 - 📱 Developed Android app with unique **RSVP reading method** based on scientific research for 100% efficiency
 - 💼 **4+ years** of development experience with **6+ months** in commercial projects
-- 🏠 Currently working at [**Viantec**](https://viantec.ru/)
+- 🏠 Currently working at [**Виантек**](https://viantec.ru/) and [**Битроид**](https://bitroid.ru/)
 - 📙 Check out my [**resume**](https://hh.ru/resume/247d099aff0dd2410b0039ed1f7447565a6f47)
 - All my projects [**there**](https://github.com/tiodio324?tab=repositories)
 
